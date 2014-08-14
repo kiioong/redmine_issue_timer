@@ -3,7 +3,7 @@ Redmine Issue Timer
 
 ## Installation
 
-Clone the Repository into your redmine/plugins folder
+Clone the Repository into your redmine/plugins folder.
 
 Then run the following command:
 
@@ -17,4 +17,4 @@ This plugin builds in a timer in the "edit issue" page to determine how long you
 
 ## Screenshot
 
-![Timer](timer.jpg "Timer")
+![Timer](doc/timer.jpg "Timer")
